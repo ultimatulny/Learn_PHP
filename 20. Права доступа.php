@@ -8,7 +8,7 @@
 
 	/*
 	
-				Owner         Group         Users
+	            Owner         Group         Users
 	=====================================================
 	read          1             1             1          | 4
 	write         1             0             0          | 2
